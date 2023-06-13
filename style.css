@@ -2,6 +2,7 @@ body{
     background-color: rgb(255, 241, 252);
     background-repeat: no-repeat;
     background-size: cover;
+    margin: 0%;
 
 
 }
@@ -30,6 +31,7 @@ body{
     margin-bottom: 200px;
     margin-left: 1000px;
     margin-top: -20px;
+    margin-right: -50px;
     
     
 }
@@ -46,6 +48,9 @@ body{
     font-size: 50px;
     margin-bottom: 20px;
     color:#991238;
+    text-align: center;
+    margin-right: 200px;
+    
 }
 .p{
     margin-left: 900px;
@@ -74,7 +79,9 @@ body{
     margin-left: 500px;
     color: aliceblue;
     font-size: 20px;
-    padding-top: 30px;   
+    padding-top: 30px; 
+    text-align: center;  
+    padding-right: 522px;
 }
 #P3{
     text-align: center;
@@ -92,17 +99,18 @@ body{
     font-size: 20px;
     margin-top: 25px;  
 }
+.tainer{
+    background-color:#333333;
+    text-align: center;
+    color: white;
+}
 .col1{
-    margin-left: 500px;
-    color: aliceblue;
-    font-size: 20px;
-    padding-top: 170px;
-
-
+    padding-top: 0px;
+    margin-top: -10px;
 }
 #col2{
-    color: rgb(79, 79, 200);
+    color:#bcc0ee;
 }
 #soda{
-    color: rgb(79, 79, 200);
+    color:#bcc0ee;
 }
